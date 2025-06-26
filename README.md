@@ -1,6 +1,7 @@
 # # Hi there, I'm **Youssef Magdy Shaaban**! 👋
 
-![Banner Image](https://via.placeholder.com/1200x300.png?text=Your+Banner+Here)
+![Banner Image](![image](https://github.com/user-attachments/assets/488d33ab-0b46-4f6b-93c2-b3d3891f9438)
+)
 
 ## About Me 🚀
 
