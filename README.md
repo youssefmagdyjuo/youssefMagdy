@@ -1,7 +1,6 @@
 # # Hi there, I'm **Youssef Magdy Shaaban**! 👋
 
-![Banner Image](![image](https://github.com/user-attachments/assets/488d33ab-0b46-4f6b-93c2-b3d3891f9438)
-)
+![Banner Image](https://github.com/user-attachments/assets/488d33ab-0b46-4f6b-93c2-b3d3891f9438)
 
 ## About Me 🚀
 
